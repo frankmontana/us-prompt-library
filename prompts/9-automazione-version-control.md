@@ -1,0 +1,1 @@
+Esegui git diff > full_diff.txt per salvare le modifiche non committate. Leggi il contenuto di full_diff.txt, analizza i cambiamenti e genera solo un messaggio di commit chiaro e descrittivo, usando dove possibile il formato conventional commits (feat:, fix:, refactor:, ecc.). Non eseguire comandi Git.

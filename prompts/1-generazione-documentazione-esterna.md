@@ -1,0 +1,1 @@
+@[modulo] Scrivi in docs/ una documentazione in Markdown per questa classe, pensata per sviluppatori. Includi: descrizione generale, spiegazione dei metodi, parametri, eventuali eccezioni, e uno o più esempi di utilizzo.

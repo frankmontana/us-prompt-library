@@ -1,0 +1,1 @@
+Analizza il codice corrente e scrivi in docs/ una documentazione in Markdown per i requisiti funzionali che è possibile dedurre. Includi solo il comportamento osservabile dall’esterno (input/output, effetti, logiche di business).

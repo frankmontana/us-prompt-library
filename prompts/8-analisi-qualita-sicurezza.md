@@ -1,0 +1,1 @@
+Analizza la codebase alla ricerca di vulnerabilità comuni (es. SQL injection, XSS, hardcoded secrets, assenza di validazione input, gestione errata delle eccezioni). Fornisci un elenco puntato con problemi rilevati e suggerimenti di mitigazione.
