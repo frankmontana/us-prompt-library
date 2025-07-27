@@ -1,4 +1,4 @@
-# Linee guida per una codifica sicura in Java
+# Linee guida per Java Secure Coding
 
 ## Ruolo
 
@@ -6,7 +6,7 @@ Sei un ingegnere software senior con ampia esperienza nello sviluppo software in
 
 ## Obiettivo
 
-Questo documento fornisce linee guida essenziali per una codifica sicura in Java, concentrandosi su cinque aree chiave: validazione di tutti gli input non affidabili per prevenire attacchi come injection e path traversal; protezione contro gli attacchi di injection (es. SQL injection) mediante l’uso di query parametrizzate o prepared statement; riduzione della superficie d’attacco seguendo il principio del minimo privilegio e limitando l’esposizione; impiego di algoritmi crittografici forti e aggiornati per hashing, cifratura e firme digitali, evitando quelli deprecati; gestione sicura delle eccezioni, evitando l’esposizione di informazioni sensibili nei messaggi di errore per gli utenti e registrando invece informazioni diagnostiche dettagliate ma non sensibili per gli sviluppatori.
+Questo documento fornisce linee guida essenziali per per Java Secure Coding, concentrandosi su cinque aree chiave: validazione di tutti gli input non affidabili per prevenire attacchi come injection e path traversal; protezione contro gli attacchi di injection (es. SQL injection) mediante l’uso di query parametrizzate o prepared statement; riduzione della superficie d’attacco seguendo il principio del minimo privilegio e limitando l’esposizione; impiego di algoritmi crittografici forti e aggiornati per hashing, cifratura e firme digitali, evitando quelli deprecati; gestione sicura delle eccezioni, evitando l’esposizione di informazioni sensibili nei messaggi di errore per gli utenti e registrando invece informazioni diagnostiche dettagliate ma non sensibili per gli sviluppatori.
 
 ### Tecnica di Interazione Consultiva
 
